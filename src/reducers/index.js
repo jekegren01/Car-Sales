@@ -16,11 +16,13 @@ const initialState = {
         { id: 4, name: 'Rear spoiler', price: 250 }
     ]
 };
-
+//create export of cases to avoid typos later on
 export const ADD_FEATURE = "ADD_FEATURE";
 export const REMOVE_FEATURE = "REMOVE_FEATURE";
 
+//export the reducer 
 export const reducer = (state = initialState, action) =>{
+    // add switch and case frame
     switch (action.type) {
         case ADD_FEATURE:
             return {

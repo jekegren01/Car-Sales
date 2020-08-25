@@ -1,4 +1,6 @@
 import React from 'react';
+//import connect for store use, import actions for use
+
 import { addFeature } from '../actions';
 import { connect } from 'react-redux';
 
@@ -11,6 +13,8 @@ const AdditionalFeature = props => {
     </li>
   );
 };
+
+//set up connect with mapStateToProps and mapDispatchToProps
 
 const mapStateToProps = (state) => {
   return null

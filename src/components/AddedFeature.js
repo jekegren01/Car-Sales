@@ -1,4 +1,5 @@
 import React from 'react';
+//import connect for store use, import actions for use
 import { removeFeature } from '../actions';
 import { connect } from 'react-redux';
 
@@ -12,6 +13,8 @@ const AddedFeature = props => {
   );
 };
 
+
+//set up connect with mapStateToProps and mapDispatchToProps
 const mapStateToProps = (state) => {
   return null
 };

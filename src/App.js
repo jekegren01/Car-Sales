@@ -25,6 +25,8 @@ const App = (props) => {
   //   ]
   // };
 
+
+  //step 2  change all states of const from ???? to props
   return (
     <div className="boxes">
       <div className="box">
@@ -39,6 +41,8 @@ const App = (props) => {
   );
 };
 
+//step 3 change state to props and return
+
 const mapStateToProps = (state) => {
   return {
       additionalPrice: state.additionalPrice,
@@ -47,6 +51,8 @@ const mapStateToProps = (state) => {
   };
 }
 
+
+//step 4 change dispatch to props
 const mapDispatchToProps = {};
 
 export default connect(mapStateToProps, mapDispatchToProps)(App);
