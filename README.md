@@ -1,4 +1,4 @@
-# Module Project: Redux - Car Sales
+<!-- # Module Project: Redux - Car Sales
 
 In this project you are given the skeleton/structure/styling of a React app. There is even some state built in for you. Your job will be to implement React-Redux as the state management system for this application.
 
@@ -75,7 +75,7 @@ Once you begin, you will have 15 minutes to answer the questions [here](https://
 
 The completion of these questions is mandatory for MVP. However, passing the quiz doesn't affect your standing as a Lambda School student whatsoever. This is Lambda School testing itself! Please answer honestly and to the best of your ability without using external references.
 
-
+`
 ### Task 3: Stretch Problems
 
 Do not attempt stretch problems until MVP has been reached and a final commit has been made.
@@ -85,7 +85,7 @@ Do not attempt stretch problems until MVP has been reached and a final commit ha
 - Look into the docs for Bulma and change up the styling.
 - Implement an API from one of these sites [here](https://www.google.com/search?q=car+sales+api&rlz=1C5CHFA_enUS809US809&oq=car+sales+api&aqs=chrome..69i57j0l5.3580j0j1&sourceid=chrome&ie=UTF-8). I don't know if there are any good open APIs for this, so explore around. Check out what data these APIs return, and what you think would be fun to work with. The sky is the limit here!
 
-## Submission Format
-* [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
+<!-- ## Submission Format
+`* [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into `main` (student's  Repo). **Please don't merge your own pull request
 * [ ] Fill out your module retrospective form [here](https://forms.lambdaschool.com/module-retrospective) with a link to your PR
-
+ -->
